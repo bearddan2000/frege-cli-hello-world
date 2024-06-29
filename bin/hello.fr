@@ -1,0 +1,4 @@
+module example.hello where
+
+main :: IO ()
+main = do putStrLn "Hello, World!"
